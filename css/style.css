@@ -292,6 +292,7 @@ nav {
     color: #FFFFFF;
     font-size: 17px;
     line-height: 22px;
+    cursor: pointer;
 }
 .nav__button__btn:hover {
     background-color: #fa6331;
@@ -314,6 +315,7 @@ nav {
     color: #FFFFFF;
     font-size: 17px;
     line-height: 22px;
+    cursor: pointer;
 }
 .home__content__btn-button:hover {
     background-color: #4747db;
@@ -325,7 +327,8 @@ nav {
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    border: 1px solid #E7E7E7
+    border: 1px solid #E7E7E7;
+    cursor: pointer;
 }
 .arrow__down:hover {
     background-color: #eff1f5;
@@ -387,6 +390,7 @@ label{
     border: 1px solid #EAE9F2;
     color: var(--button-color-two); 
     margin-top: 38px;
+    cursor: pointer;
     transition: all 0.5s linear;
 }
 .plan__content-card:hover .plan__content-card-button {
